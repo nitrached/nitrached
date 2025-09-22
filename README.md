@@ -29,3 +29,9 @@ Discord: nitrached
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)](https://go.dev/)
 
 ---
+
+### 📊 GitHub Stats
+
+![Manech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitrached&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrached&layout=compact&theme=github_dark)
